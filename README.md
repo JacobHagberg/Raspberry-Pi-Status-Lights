@@ -9,3 +9,6 @@ Libraries Used:
 3. json: For interaction with JSON files.
 
 
+     
+
+This code is open source and can be used by anyone.
